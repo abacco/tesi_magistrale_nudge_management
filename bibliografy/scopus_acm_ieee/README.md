@@ -3,4 +3,4 @@ and the Grey used to collect informations about the thesis topic.
 Summarizing, this file represents the complete bibliografy for the thesis.
 
 P.S.
-- Current file version is 0.1 at the moment, final version will be the one with the fixes after a paired review.
+- Current file version is 0.2 at the moment, final version will be the one with the fixes after a paired review.
